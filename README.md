@@ -1,6 +1,6 @@
 # WEB102 Prework - Sea Monster Stats
 
-Submitted by: **Your Name Here**
+Submitted by: **Israel Pina**
 
 Sea Monster Stats is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
